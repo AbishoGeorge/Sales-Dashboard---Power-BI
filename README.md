@@ -1,10 +1,10 @@
 # Sales Dashboard – Power BI Project
 
-An interactive Power BI <a href=""><dashboard/a> analyzing SuperStore sales data across regions, segments, and categories. It highlights key metrics like orders, sales, profit, and shipping trends, helping stakeholders uncover insights, track performance, and make data-driven business decisions.
+An interactive Power BI dashboard analyzing SuperStore sales data across regions, segments, and categories. It highlights key metrics like orders, sales, profit, and shipping trends, helping stakeholders uncover insights, track performance, and make data-driven business decisions.
 
 ## Dataset used
 
-<a href=""></a>
+<a href="https://github.com/AbishoGeorge/Sales-Dashboard---Power-BI/blob/main/SuperStore%20Sales%20DataSet.xlsx"><Sales Dataset/a>
 
 ## 1. Business Problem (KPI)
 
