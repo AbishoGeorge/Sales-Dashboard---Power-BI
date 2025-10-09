@@ -44,7 +44,7 @@ The project includes two main pages:
 • **Page 2**: 30-Day Sales Forecast with Time-Series Trends  
    
 Page 1:
-<img width="1324" height="739" alt="Screenshot 2025-10-09 073832" src="https://github.com/user-attachments/assets/0fb2f623-89fc-4296-9ec9-a932af9c196f" />
+<img width="1322" height="741" alt="Screenshot 2025-10-09 110618" src="https://github.com/user-attachments/assets/afa59f1b-b37d-451a-885a-87957a661015" />
    
 Page 2:
 <img width="1320" height="742" alt="Screenshot 2025-10-09 073310" src="https://github.com/user-attachments/assets/b13d4d73-ab94-424c-8d0e-97092e110d88" />
